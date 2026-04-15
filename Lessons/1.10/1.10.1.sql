@@ -1,4 +1,4 @@
 SELECT *
-FROM information_schema.tables  --Information Schema
+FROM information_schema.tables
 WHERE table_name LIKE '%dim%';
 
