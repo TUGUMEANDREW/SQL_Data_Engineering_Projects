@@ -1,0 +1,9 @@
+DROP DATABASE IF EXISTS sql_problems;
+
+SHOW DATABASES;
+
+CREATE DATABASE IF NOT EXISTS company_jobs;
+
+USE company_jobs;
+
+SHOW DATABASES;
